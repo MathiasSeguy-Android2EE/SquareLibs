@@ -31,7 +31,7 @@
 package com.android2ee.formation.lib.squarelibs.view;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import androidx.appcompat.app.ActionBarActivity;
 import android.util.Log;
 import android.widget.TextView;
 

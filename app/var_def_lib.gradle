@@ -1,0 +1,4 @@
+//This is the list of the version of library you use
+project.ext {
+comSquareupOkhttp_okhttp_Version=256m
+}
